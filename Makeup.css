@@ -1,15 +1,28 @@
 .Passion-Section{
-background-color: orange;
-
+background-color: lightgoldenrodyellow;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: lightsalmon;
+text-align: center;
 }
+
 
 .Makeup-Pictures{
 background-color: pink;
-
 }
 
 .Reason-Section{
-background-color: orange
+background-color: hotpink;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: burlywood;
+padding: 7px;
+}
+
+.Makeup-Website{
+text-align: center;
+}
+
+.Makeup-Tips{
+text-align: center;
 }
 
 body{
