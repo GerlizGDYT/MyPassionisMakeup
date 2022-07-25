@@ -5,6 +5,19 @@ color: lightsalmon;
 text-align: center;
 }
 
+.Button{
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    color: fuchsia;
+
+}
+
+.button1{
+    background-color: peachpuff; 
+    border-color: white;
+    color: fuchsia;
+}
 
 .Makeup-Pictures{
 background-color: pink;
