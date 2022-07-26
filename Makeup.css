@@ -5,18 +5,34 @@ color: lightsalmon;
 text-align: center;
 }
 
-.Button{
-    border: none;
-    padding: 15px;
-    font-size: 16px;
-    color: fuchsia;
+.Passion-Section-Title{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: hotpink;
+    font-size:xx-large;
+    font-style: initial;
+}
+
+.Reason-Section-Title{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: hotpink;
+    font-size: xx-large;
+    font-style: initial;
 
 }
 
-.button1{
-    background-color: peachpuff; 
-    border-color: white;
-    color: fuchsia;
+.Link-Title{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: hotpink;
+    font-size: xx-large;
+    font-style: initial;
+}
+.MakeupButton{
+    background-color: fuchsia; 
+    border-color: lightsalmon;
+    color: white;
 }
 
 .Makeup-Pictures{
@@ -28,6 +44,7 @@ background-color: hotpink;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 color: burlywood;
 padding: 7px;
+text-align: center;
 }
 
 .Makeup-Website{
@@ -39,7 +56,6 @@ text-align: center;
 }
 
 body{
-background-color: peachpuff;
-
+background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMS1tYXJibGUtc2FzaS0xMTcuanBn.jpg?s=sz-7kap7topyNDJpDM0ZTZrIz1So53S7bTyPKo4dJvs);
 }
 
